@@ -1,0 +1,6 @@
+columns format version: 1
+4 columns:
+`id` UInt32
+`name` String
+`value` Float64
+`created_at` DateTime
