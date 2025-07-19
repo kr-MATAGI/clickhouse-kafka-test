@@ -21,3 +21,9 @@ Kafka → (n8n 트리거) → (메시지 처리) → ClickHouse 저장
 
 - 대상 이메일로 내용 보내기
 <img width="844" height="327" alt="image" src="https://github.com/user-attachments/assets/47b12c65-8511-4510-94ae-a5c88a47476d" />
+
+
+### Get a message (GMail) -> OpenAI (ChatGPT-4o)
+- 메일의 내용을 요약해서 보여주는 것 (사실상 메일 뉴스 기사가 전달되면 보기 좋게 만들어주는 것을 생각함)
+
+<img width="689" height="196" alt="image" src="https://github.com/user-attachments/assets/e9e074f4-ce9f-426c-a8a6-41889e968055" />
