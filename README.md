@@ -48,7 +48,7 @@ Kafka → (n8n 트리거) → (메시지 처리) → ClickHouse 저장
 ## 📁 프로젝트 구조
 
 ```
-cafe24/
+automation/
 ├── main.py              # 메인 실행 파일
 ├── click_house.py       # ClickHouse 연결 및 테스트
 ├── kafka_test.py        # Kafka 예제 코드
