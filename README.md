@@ -8,6 +8,9 @@
 Kafka → (n8n 트리거) → (메시지 처리) → ClickHouse 저장
                             │
                             └→ 다른 앱 실행 (Slack, DB, API 등)
+Gmail 메일 읽기 → kafka 전송 / ChatGPT 요약 (뉴스 기사)
+- kafka Broker 연결 (외부 공인 ip)
+
 ```
 
 ## 📋 구성 요소
